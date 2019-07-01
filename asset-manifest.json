@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fs_on_may19_sasha/static/css/main.2cce8147.chunk.css",
+    "main.js": "/fs_on_may19_sasha/static/js/main.24f9b5b4.chunk.js",
+    "main.js.map": "/fs_on_may19_sasha/static/js/main.24f9b5b4.chunk.js.map",
+    "runtime~main.js": "/fs_on_may19_sasha/static/js/runtime~main.3b608467.js",
+    "runtime~main.js.map": "/fs_on_may19_sasha/static/js/runtime~main.3b608467.js.map",
+    "static/js/2.b41502e9.chunk.js": "/fs_on_may19_sasha/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/fs_on_may19_sasha/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/fs_on_may19_sasha/index.html",
+    "precache-manifest.f55aecb865b26900651bc5917e14d814.js": "/fs_on_may19_sasha/precache-manifest.f55aecb865b26900651bc5917e14d814.js",
+    "service-worker.js": "/fs_on_may19_sasha/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/fs_on_may19_sasha/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/fs_on_may19_sasha/static/media/logo.5d5d9eef.svg"
+  }
+}
